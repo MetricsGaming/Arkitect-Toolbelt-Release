@@ -1,4 +1,4 @@
-![Arkitect Toolbelt](.github/ArkitectToolbelt_banner.png)
+![Arkitect Toolbelt](.github/ArkitectToolbelt_hero.png)
 
 # Arkitect Toolbelt
 
