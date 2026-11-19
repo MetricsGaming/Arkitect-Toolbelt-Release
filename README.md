@@ -1,3 +1,5 @@
+![Arkitect Toolbelt](.github/ArkitectToolbelt_banner.png)
+
 # Arkitect Toolbelt
 
 Arkitect Toolbelt takes the busywork out of ARK: Survival Ascended: an auto clicker, one-key inventory drops, Magic F transfers and tame leveling, and helpers for renaming, PINs, eggs, baby feeding, and turrets.
